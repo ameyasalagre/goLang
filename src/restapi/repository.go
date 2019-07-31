@@ -12,7 +12,7 @@ import (
 type Repository struct{}
 
 // SERVER the DB server
-const SERVER = "mongodb://gautam:gautam@ds157233.mlab.com:57233/dummystore"
+const SERVER = "kgmongodb"
 
 // DBNAME the name of the DB instance
 const DBNAME = "dummyStore"
